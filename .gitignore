@@ -1,0 +1,30 @@
+# Environment files and secrets
+**/.env
+**/.env.*
+!**/.env.example
+**/*.pem
+**/*.key
+**/*credentials*
+**/*service-account*
+
+# Dependencies
+**/node_modules/
+
+# Build outputs and caches
+**/.next/
+**/dist/
+**/build/
+**/coverage/
+**/*.tsbuildinfo
+
+# Logs
+**/*.log
+
+# Local tools
+**/.vercel/
+**/.vscode/
+**/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

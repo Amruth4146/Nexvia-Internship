@@ -35,7 +35,7 @@ A real-time collaborative workspace that allows multiple users to work together 
 - Document sharing and permissions.
 - Persistent document content.
 
-**Technology:** React, TypeScript, Node.js, Express, Yjs, TipTap and WebSocket.
+**Technology:** Next.js, React, TypeScript, Prisma, PostgreSQL, Redis, Yjs, TipTap and WebSockets.
 
 **Live Demo:** https://collab-space-smoky.vercel.app
 
